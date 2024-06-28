@@ -1,1 +1,6 @@
-<h1 style="text-align:center;">AINDA CODANDO...👨‍💻 </h1>
+<style>
+  h1{
+    text-align:center;
+  }
+</style>
+<h1>AINDA CODANDO...👨‍💻 </h1>
