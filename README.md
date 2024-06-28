@@ -1,3 +1,1 @@
-<h1 style="text-align: center;">AINDA CODANDO...🧑‍💻
-👨‍💻
-</h1>
+<h1 style="text-align:center;">AINDA CODANDO...👨‍💻 </h1>
